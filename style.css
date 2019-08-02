@@ -104,8 +104,8 @@ a {
 }
 
 .Future p {
-	font-size: 1.2rem;
-	color: antiquewhite;
+	font-size: 20px;
+	color: rgb(107, 107, 107);
 }
 
 .Future h1 {
@@ -154,7 +154,6 @@ li {
 	padding: 3.5%;
     flex: 1;
 }
-
 
 /* responsiveness */
 @media screen and (max-width: 1030px){
